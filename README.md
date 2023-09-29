@@ -1,2 +1,2 @@
 # Devtern
-some task are complited on data science 
+DETECTING FACK NEWS
